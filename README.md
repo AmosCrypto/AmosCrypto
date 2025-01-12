@@ -1,5 +1,5 @@
 
-<h1 align="left" id="macropower-title"> Hello there! I'm Amos</h1>
+<h1 align="left" id="macropower-title"> Stay hungry, Stay foolish!</h1>
 <h3 align="left">I am currently dedicated to the field of cryptocurrency quantitative trading.</h3>
 
 <p align="left">
@@ -142,6 +142,6 @@
 [homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
 [blog]: https://jacobcolvin.com/posts/ "My Blog"
 
-## Stay hungry, Stay foolish!
+
 
 
