@@ -22,7 +22,7 @@
 
 <br>
 
-- 💻 I'm currently all in on Web3.
+- 💻 I'm currently all in Web3.
 
 - 🔭 My current languages are **Java**,**Golang**, **Python**
 
@@ -82,12 +82,7 @@
       </a>
       <br>Kubernetes
     </td>
-    <td align="center" width="96">
-      <a href="#amos-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
+    
 
   </tr>
 </table>
@@ -127,6 +122,12 @@
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#amos-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td>
     
 
