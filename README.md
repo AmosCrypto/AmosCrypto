@@ -26,7 +26,7 @@
 
 - 🔭 My current languages are **Java**,**Golang**, **Python**
 
-- 😀 I like to hiking, travelling, read in my free time.
+- 😀 I like hiking, travelling, and reading in my free time.
 
 - 💬 Ask me about fountain pens.
 
