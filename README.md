@@ -1,6 +1,6 @@
 
 <h1 align="left" id="macropower-title"> Hello there! I'm Amos</h1>
-<h3 align="left">I do Backend Engineering things</h3>
+<h3 align="left">I am currently dedicated to the field of cryptocurrency quantitative trading.</h3>
 
 <p align="left">
   <a href="https://github.com/AmosCrypto/AmosCrypto">
