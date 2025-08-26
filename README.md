@@ -13,7 +13,7 @@
 </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@liyiliuuu@gmail.com)](mailto:mail@liyiliuuu@gmail.com)
-[![X Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=X&logoColor=white&link=https://x.com/BlockchainAmos)](https://x.com/BlockchainAmos)
+[![X Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=X&logoColor=white&link=https://x.com/0xAmosLi)](https://x.com/0xAmosLi)
 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AmosCrypto&show_icons=true&theme=transparent"  />
