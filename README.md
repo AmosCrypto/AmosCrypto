@@ -48,18 +48,6 @@
     </td>
     <td align="center" width="96">
       <a href="#amos-tech">
-        <img src="./img/spring-icon.svg" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Springframework
-    </td>
-    <td align="center" width="96">
-      <a href="#amos-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="Mysql" />
-      </a>
-      <br>Mysql
-    </td>
-    <td align="center" width="96">
-      <a href="#amos-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
@@ -69,6 +57,18 @@
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#amos-goals">
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#amos-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td>
     <td align="center" width="96"> 
       <a href="#amos-tech" >
@@ -117,18 +117,7 @@
       </a>
       <br>Quantitative trading
     </td>
-    <td align="center" width="96">
-      <a href="#amos-goals">
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#amos-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
+    
     
 
   </tr>
